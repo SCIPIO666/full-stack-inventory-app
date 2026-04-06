@@ -17,3 +17,5 @@ Thumbs.db
 # Debug logs
 pino-debug.log
 logs/
+
+.routes.env
